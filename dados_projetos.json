@@ -1,0 +1,48 @@
+{
+    "projetos": [
+        {
+            "id": 1,
+            "nome": "Analise de dados",
+            "descricao": "Vers\u00e3o Beta",
+            "pessoas": [
+                {
+                    "nome": "ana",
+                    "cargo": "analista",
+                    "etapa": "coleta",
+                    "prazo": "20-08-2026"
+                },
+                {
+                    "nome": "maicon",
+                    "cargo": "desenvolvedor",
+                    "etapa": "Estrutura",
+                    "prazo": "20/09/2025"
+                }
+            ],
+            "etapas": [
+                {
+                    "nome": "Estrutura",
+                    "status": "conclu\u00eddo",
+                    "prazo": "11-01-2026",
+                    "responsavel": "maicon"
+                },
+                {
+                    "nome": "coleta de dados",
+                    "status": "em andamento",
+                    "prazo": "06/11/2026",
+                    "responsavel": "clara"
+                }
+            ],
+            "data_inicio": "-06/07/2025",
+            "data_fim": "-20/12/2025"
+        },
+        {
+            "id": 2,
+            "nome": "software",
+            "descricao": "Vers\u00e3o Beta",
+            "pessoas": [],
+            "etapas": [],
+            "data_inicio": "-",
+            "data_fim": "-"
+        }
+    ]
+}
